@@ -25,7 +25,7 @@ from the Kaggle House Prices dataset.
 
 ## How to Run
 1. Clone this repository
-   git clone https://github.com/YOUR_USERNAME/house-price-regression.git
+   git clone https://github.com/rheajose/house-price-regression.git
 
 2. Install dependencies
    pip install -r requirements.txt
