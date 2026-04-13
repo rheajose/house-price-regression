@@ -23,5 +23,28 @@ from the Kaggle House Prices dataset.
 - `actual_vs_predicted.png` — model fit visualisation
 - `residuals_plot.png` — residual diagnostic
 
-## Setup
-pip install -r requirements.txt
+## How to Run
+1. Clone this repository
+   git clone https://github.com/YOUR_USERNAME/house-price-regression.git
+
+2. Install dependencies
+   pip install -r requirements.txt
+
+3. Download train.csv from Kaggle and place it in the project folder
+
+4. Open and run the notebook
+   jupyter notebook house_price_regression.ipynb
+
+## Tools & Libraries
+- Python 3.9+
+- pandas, numpy
+- scikit-learn
+- matplotlib, seaborn
+- Jupyter Notebook
+
+## Skills Demonstrated
+- Data cleaning and exploratory analysis
+- Feature engineering and selection
+- Supervised ML (linear regression)
+- Model evaluation and diagnostics
+- End-to-end ML pipeline
